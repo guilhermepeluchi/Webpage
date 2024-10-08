@@ -2,7 +2,7 @@
   "name": "meu-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://guilhermepeluchi.github.io/Home",
+  "homepage": "https://guilhermepeluchi.github.io/Webpage/",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
