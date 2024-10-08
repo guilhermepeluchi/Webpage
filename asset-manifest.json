@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Webpage/static/css/main.7b1dfd7a.css",
+    "main.js": "/Webpage/static/js/main.1abdeba8.js",
+    "static/js/453.f4d220d9.chunk.js": "/Webpage/static/js/453.f4d220d9.chunk.js",
+    "static/media/photo-blur.png": "/Webpage/static/media/photo-blur.7c128c4a46a7446f9494.png",
+    "static/media/Guilherme Peluchi - Resume.pdf": "/Webpage/static/media/Guilherme Peluchi - Resume.0cdc696947159b258587.pdf",
+    "static/media/under-construction.png": "/Webpage/static/media/under-construction.8a0b071670ff350cdcd4.png",
+    "index.html": "/Webpage/index.html",
+    "main.7b1dfd7a.css.map": "/Webpage/static/css/main.7b1dfd7a.css.map",
+    "main.1abdeba8.js.map": "/Webpage/static/js/main.1abdeba8.js.map",
+    "453.f4d220d9.chunk.js.map": "/Webpage/static/js/453.f4d220d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b1dfd7a.css",
+    "static/js/main.1abdeba8.js"
+  ]
+}
